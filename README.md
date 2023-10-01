@@ -1,3 +1,3 @@
 # Hactoberfest2023OS
-#Contribution
+#Contribution Of HactoberFest
 1. Ricky Parte
